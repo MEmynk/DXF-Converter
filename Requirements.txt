@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+ezdxf
+numpy
+Pillow
+matplotlib
+potracer
